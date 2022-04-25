@@ -1,4 +1,4 @@
-# Recommanded YouTube Channel for Frontend Learning
+# Recommanded YouTube Channels for Frontend Learning
 
 1. Computer Science History
     - [Crash Course on CS History](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
